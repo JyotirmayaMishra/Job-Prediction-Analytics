@@ -8,11 +8,11 @@ The objective is to uncover the key factors influencing employability and build 
 
 Key Highlights
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Feature engineering and selection
-Machine learning model development
-Model performance evaluation
-Data-driven insights for job prediction
+# Data cleaning and preprocessing
+# Exploratory Data Analysis (EDA)
+# Feature engineering and selection
+# Machine learning model development
+# Model performance evaluation
+# Data-driven insights for job prediction
 
 This repository demonstrates practical applications of data analytics and machine learning for solving real-world employability prediction problems while showcasing an end-to-end analytics workflow.
